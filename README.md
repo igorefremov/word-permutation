@@ -10,9 +10,13 @@ permutate *word*
 
 permutate *word* > wordlist.txt
 
-## Example
-permutate word123
 
+## Example
+```
+permutate word123
+```
+
+### Console Output
 ```
 word123
 worD123
